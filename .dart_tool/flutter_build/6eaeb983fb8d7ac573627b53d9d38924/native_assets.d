@@ -1,0 +1,1 @@
+ C:\\Users\\mmmm2\\Desktop\\perfumes_store\\.dart_tool\\flutter_build\\6eaeb983fb8d7ac573627b53d9d38924\\native_assets.yaml: 
